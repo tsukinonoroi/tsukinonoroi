@@ -26,5 +26,4 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </p>
 
-  <img src="https://i.giphy.com/media/yyVph7ANKftIs/giphy.webp" height="200"/>
 </div>
