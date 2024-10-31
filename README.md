@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi there, I'm <a href="vk.com" target="_blank">Edem</a>
-    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   </h1>
   <h3>Computer Science student 🖥</h3>
 
