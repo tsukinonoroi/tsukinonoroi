@@ -1,8 +1,6 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="vk.com" target="_blank">Edem</a>
-  </h1>
+  <h1>Hi there, I'm <a href="vk.com" target="_blank">Edem</a></h1>
   <h3>Computer Science student 🖥</h3>
-
   <h3>My Tech Stack:</h3>
   
   <p>
