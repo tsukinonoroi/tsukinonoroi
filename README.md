@@ -15,6 +15,6 @@
     <img src="https://img.shields.io/badge/Lombok-C80000?style=for-the-badge&logo=lombok&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </p>
-
-  <img src="https://leetcard.jacoblin.cool/tsukinonoroi?theme=light&font=Roboto" />
+ <h3>My LeetCode: 👨‍💻</h3>
+  <img src="https://leetcard.jacoblin.cool/tsukinonoroi?theme=dark&font=Roboto" />
 </div>
