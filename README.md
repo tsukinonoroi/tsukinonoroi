@@ -25,5 +25,6 @@
     <!-- GitHub -->
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </p>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/tsukinonoroi=light&font=Roboto)](https://leetcode.com/tsukinonoroi/)
 
 </div>
